@@ -28,28 +28,23 @@ $(function()
 	},{
 		artist: "Hoàng Thùy Linh ft. Binz",
 		name: "Kẻ Cắp Gặp Bà Già",
-		url: "Musics/DiamondCutDiamond.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		url: "Musics/DiamondCutDiamond.mp3"
 	},{
 		artist: "ERIK",
 		name: "Lạc Nhau Có Phải Muôn Đời",
-		url: "Musics/LacNhauCoPhaiMuonDoi.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		url: "Musics/LacNhauCoPhaiMuonDoi.mp3"
 	},{
 		artist: "Chillies",
 		name: "Vùng Ký Ức",
-		url: "Musics/VungKyUc.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		url: "Musics/VungKyUc.mp3"
 	},{
 		artist: "Quân A.P ft Nguyên Jenda",
 		name: "You Are My Crush",
-		url: "Musics/YouAreMyCrush.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		url: "Musics/YouAreMyCrush.mp3"
 	},{
 		artist: "Phan Mạnh Quỳnh",
 		name: "Từ Đó",
-		url: "Musics/TuDo.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		url: "Musics/TuDo.mp3"
 	}];
 	
 	function shuffle(a) {
